@@ -8,11 +8,9 @@
 
 
 
-GitHub Actions: 
+GitHub Actions: https://github.com/ZuSolaris/basic-express-server/actions/new
 
-Production Deployment: https://dashboard.render.com/web/srv-ce2ldb6n6mpmkc6p9pj0
-
-Development Deployment: https://server-deploy-dev-siby.onrender.com/
+Production Deployment: https://basic-express-production.onrender.com/
 
 ### Setup
 
@@ -32,7 +30,9 @@ PORT: 3001
 
 #### How to use your library
 
--nodemon
+-nodemon for starting
+
+-npm test for testing
 
 #### Features / Routes
 
